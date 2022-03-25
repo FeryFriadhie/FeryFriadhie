@@ -18,5 +18,5 @@ dan Ekstrakurikuler Paskibra. Terimakasih telah membaca^^.
 - 🌱 I’m currently learning **Fullstack Developer**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **Open Source**  projects
-- 💬 I'm mostly active within the **Laravel**, **ReactJS**, **Tailwindcss** and **Javascript** communities
+- 💬 I'm mostly active within the **Laravel**, **Javascript**, **PHP** communities
 
