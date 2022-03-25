@@ -20,3 +20,8 @@ dan Ekstrakurikuler Paskibra. Terimakasih telah membaca^^.
 - 👯 I’m looking to collaborate on **Open Source**  projects
 - 💬 I'm mostly active within the **Laravel**, **Javascript**, **PHP** communities
 
+## My Github stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameFeryFriadhie=&show_icons=true)
+
+## Most used language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryFriadhie)](https://github.com/FeryFriadhie)
