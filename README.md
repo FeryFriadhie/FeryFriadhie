@@ -21,7 +21,7 @@ dan Ekstrakurikuler Paskibra. Terimakasih telah membaca^^.
 - 💬 I'm mostly active within the **Laravel**, **Javascript**, **PHP** communities
 
 ## My Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameFeryFriadhie=&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeryFriadhie&show_icons=true)
 
 ## Most used language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeryFriadhie)](https://github.com/FeryFriadhie)
