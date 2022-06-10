@@ -16,7 +16,7 @@ dan Ekstrakurikuler Paskibra. Terimakasih telah membaca^^.
 
 - 🔭 School's in **Software Engineer** at SMKN 1 CIAMIS
 - 🌱 I’m currently learning **Fullstack Developer**
-- ⚙️ Mastering: `.html`,`.css`,`.js`
+- ⚙️ Mastering: `.html`,`.css`,`.PHP`
 - 👯 I’m looking to collaborate on **Open Source**  projects
 - 💬 I'm mostly active within the **Laravel**, **Javascript**, **PHP** communities
 
