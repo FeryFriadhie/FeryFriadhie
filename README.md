@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-grey)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-cyan)
 ![VueJS](https://img.shields.io/badge/VueJS-Learning-green)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
