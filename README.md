@@ -4,7 +4,7 @@
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 
 Hallo nama saya Fery Friadhie saya seorang pelajar di SMKN 1 CIAMIS 
 dengan Jurusan Rekayasa Perangkat Lunak. Saya juga mengikuti Organisasi OSIS
