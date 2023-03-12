@@ -1,6 +1,6 @@
 # Hallo I'm Fery 👋
 
-![Laravel](https://img.shields.io/badge/Laravel-Beginer-red)
+![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
