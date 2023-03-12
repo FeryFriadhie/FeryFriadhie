@@ -1,9 +1,9 @@
 # Hallo I'm Fery 👋
 
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Beginner-lightblue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightgrey)
 
 Hallo nama saya Fery Friadhie saya seorang pelajar di SMKN 1 CIAMIS 
