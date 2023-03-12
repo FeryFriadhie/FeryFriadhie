@@ -1,14 +1,10 @@
-# Hallo I'm Fery Friadhie 👋
+# Hallo I'm Fery 👋
 
-![Laravel](https://img.shields.io/badge/Laravel-Learning-red)
-![ReactJS](https://img.shields.io/badge/ReactJS-Learning-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Beginer-red)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-lightgrey)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
-![VueJS](https://img.shields.io/badge/VueJS-Learning-green)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
 Hallo nama saya Fery Friadhie saya seorang pelajar di SMKN 1 CIAMIS 
 dengan Jurusan Rekayasa Perangkat Lunak. Saya juga mengikuti Organisasi OSIS
